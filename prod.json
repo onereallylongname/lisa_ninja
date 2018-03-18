@@ -1,0 +1,94 @@
+{
+"pc":{
+"val": 1245,
+"img": "img/pc.png",
+"name": "pc"
+},
+"beirao":{
+"val": 15,
+"img": "img/beirao.png", 
+"name": "beirao"
+},
+"cachaca":{
+"val": 11,
+"img": "img/cachaca.png",
+"name": "cachaca"
+},
+"arroz":{
+"val": 1,
+"img": "img/arroz.png",
+"name": "arroz"
+},
+"bife":{
+"val": 5,
+"img": "img/bife.png",
+"name": "bife"
+},
+"blender":{
+"val": 50,
+"img": "img/blender.png",
+"name": "blender"
+},
+"cenoura":{
+"val": 2,
+"img": "img/cenoura.png",
+"name": "cenoura"
+},
+"ervilha":{
+"val": 3,
+"img": "img/ervilha.png",
+"name": "ervilha"
+},
+"lata":{
+"val": 4,
+"img": "img/lata.png",
+"name": "lata"
+},
+"pao":{
+"val": 1,
+"img": "img/pao.png",
+"name": "pao"
+},
+"peixe":{
+"val": 5,
+"img": "img/peixe.png",
+"name": "peixe"
+},
+"book" :{
+"val": 10,
+"img": "img/book.png",
+"name":"book"
+},
+"grapes":{
+"val":2,
+"img": "img/grapes.png",
+"name": "grapes"
+},
+
+"salmon":{
+"val":4,
+"img": "img/salmon.png",
+"name": "salmon"
+},
+"tomatojuice":{
+"val":2,
+"img": "img/tomatojuice.png",
+"name": "tomatojuice"
+},
+"showergel":{
+"val":2,
+"img": "img/showergel.png",
+"name": "showergel"
+},
+"waterbottle":{
+"val":1,
+"img": "img/waterbottle.png",
+"name": "waterbottle"
+},
+"icecream":{
+"val":2,
+"img": "img/icecream.png",
+"name": "icecream"
+}
+
+}
